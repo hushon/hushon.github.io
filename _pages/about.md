@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student at <a href='http://siit.kaist.ac.kr'>KAIST SIIT Lab</a>.
 
 profile:
   align: right
