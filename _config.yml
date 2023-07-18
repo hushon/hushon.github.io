@@ -114,7 +114,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: 2A1RvNR71Si-5LrQQ4HCdEOR5yte7b8D0g71-7m6IN4 # your google-site-verification ID (Google Search Console)
+google_site_verification: googlebd90b0ef616ae9a8 # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -356,7 +356,7 @@ jekyll-diagrams:
 
 enable_google_analytics:    false  # enables google analytics
 enable_cronitor_analytics: false  # enables cronitor RUM analytics
-enable_google_verification: false  # enables google site verification
+enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
