@@ -19,8 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at [KAIST SIIT Lab](http://siit.kaist.ac.kr) advised by prof. [Junmo Kim](http://siit.kaist.ac.kr/Faculty).
-I am interested in machine learning and computer vision.
+Currently a PhD student at [KAIST SIIT Lab](http://siit.kaist.ac.kr) advised by prof. [Junmo Kim](http://siit.kaist.ac.kr/Faculty).
+I am interested in machine learning, deep learning, and computer vision. 
+My recent research work involves continual learning and unlearning, noisy label learning, multi-modal contrastive learning, and hyperparameter tuning.
+
+Previously, I was a research intern at [LG AI Research](https://lgresearch.ai/) mentored by Dr. [Janghyeon Lee](https://scholar.google.com/citations?user=hUpQRD4AAAAJ).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

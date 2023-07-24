@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
-We will present a new publication on machine unlearning at [ICCV 2023](https://iccv2023.thecvf.com/). We explored a novel transfer learning scheme, named *Disposible Transfer Learning*, which scrubs the unimportant portion of the knowledge transfer. We hope to facilitate open-sourcing expert models by designing techniques that limit the risk of exposing foundation models.
+In our new paper for [ICCV 2023](https://iccv2023.thecvf.com/), we explore machine unlearning in the context of transfer learning. We introduce a transfer learning strategy titled *Disposible Transfer Learning* (DTL). DTL filters out extra information during fine-tuning, which is useful for limiting the risk of exposing the pre-trained model when publishing the expert model. Our goal is to facilitate open-source AI in the era of foundation models via control over balance between transparency and security of ownership.
